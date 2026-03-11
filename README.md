@@ -7,8 +7,8 @@ Proyecto de análisis de datos y modelado predictivo sobre el dataset público d
 ## Estructura del Proyecto
 
 ```
-predict/
-├── Copia_de_Te_damos_la_bienvenida_a_Colaboratory.ipynb   # Notebook principal
+TradeFlow-Analytics/
+├── tradeflow.ipynb   # Notebook principal
 ├── README.md
 └── Dataset/
     ├── olist_orders_dataset.csv
@@ -116,4 +116,4 @@ Pasos:
    ```bash
    pip install pandas numpy scikit-learn matplotlib
    ```
-3. Abre el notebook `Copia_de_Te_damos_la_bienvenida_a_Colaboratory.ipynb` en Jupyter o Google Colab y ejecuta las celdas en orden.
+3. Abre el notebook `tradeflow.ipynb` en Jupyter o Google Colab y ejecuta las celdas en orden.
